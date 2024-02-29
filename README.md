@@ -15,7 +15,6 @@
 ### Studying in this moment:
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=ANgular&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-FLutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117)&nbsp;
 
  </div>
  <br>
